@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 223.646 223.646" xml:space="preserve">
+
+  <!-- Define a pattern with the image you want as the background -->
+  <defs>
+    <pattern id="bgImage" x="0" y="0" width="1" height="1">
+      <image xlink:href="apps.jpg" x="0" y="0" width="800px" height="800px" />
+    </pattern>
+  </defs>
+
+  <!-- Use a rect with the pattern as the background -->
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#bgImage)" />
+
+  <polygon points="111.823,0 16.622,111.823 111.823,223.646 207.025,111.823 "/>
+</svg>
